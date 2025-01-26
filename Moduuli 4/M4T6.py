@@ -13,4 +13,4 @@ while N >= toistot:
 
 tulos= 4*n/N
 
-print("Saatu piin arvo on:" + str(tulos))
+print("Saatu piin likiarvo on: " + str(tulos))
