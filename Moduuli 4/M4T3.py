@@ -15,7 +15,4 @@ while luku!= "":
 
     luku = str(input("Seuraava luku, tyhjä lopettaa:"))
 
-print(f"{suurin}, {pienin}")
-
-
-#etsii aina pienimmän luvun uudestaan vertailemalla eka pienin=luku
+print(f"suurin luku: {suurin} & pienin luku: {pienin}")

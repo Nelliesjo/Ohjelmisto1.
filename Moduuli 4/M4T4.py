@@ -11,7 +11,3 @@ while arvaus != arvottuluku:
     arvaus=int(input("Mikä luku 1-10 väliltä?"))
 
 print("Onneksi olkoon, arvasit oikean luvun!")
-
-
-#int=kokonaisluku
-#float= desimaaliluku
