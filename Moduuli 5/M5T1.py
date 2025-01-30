@@ -9,8 +9,8 @@ for i in range(arpakuutiot):
 
     print(heitto)
 
-summa = (heitto * heitto)
-print (summa)
+
+print (f"luvut lisättynä: {summa}")
 
 
 
