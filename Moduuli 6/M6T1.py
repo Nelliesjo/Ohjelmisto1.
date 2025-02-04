@@ -12,5 +12,3 @@ def paakoodi():
             break
 
 paakoodi()
-
-
